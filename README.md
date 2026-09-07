@@ -1,8 +1,8 @@
 # ChonkyDrake
 
-讓呆萌的「憨G龍」陪你工作。牠會眨眼、轉頭、揮手，滑鼠移到牠身上時，還會輕輕跳起、吐出一小撮火苗。
+Derpy G-Dragon Codex Desktop Pet – Includes Windows installer, animation previews, and user guide.
 
-![憨G龍吐小火苗](preview.gif)
+![憨G龍](preview.gif)
 
 ## 下載與安裝
 
