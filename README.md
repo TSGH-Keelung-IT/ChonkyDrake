@@ -2,8 +2,6 @@
 
 Derpy G-Dragon Codex Desktop Pet – Includes Windows installer, animation previews, and user guide.
 
-讓呆萌的「憨G龍」陪你工作。待機時牠會伸舌、舔嘴角、收舌和眨眼；滑鼠移到牠身上，還會吐出小火苗，再吹出一朵白色迷你蘑菇雲。
-
 ![憨G龍動舌頭與吐火冒白菸](preview.gif)
 
 ## 下載與安裝
