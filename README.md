@@ -1,7 +1,3 @@
-# ChonkyDrake
-
-(preview.gif)
-
 ## 下載與安裝
 
 **[下載 Windows 安裝包](https://github.com/TSGH-Keelung-IT/ChonkyDrake/releases/latest/download/ChonkyDrake-Windows.zip)**
